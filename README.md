@@ -9,4 +9,4 @@ Forgive me, Father, for I have sinned.
 ```C
 #include "polish.h"
 ```
-4. Apologize to your parents
+5. Apologize to your parents
