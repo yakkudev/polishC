@@ -27,7 +27,7 @@
 #define kiedy while
 #define zrób do
 #define dla for
-#define kontynuuj continue;
+#define kontynuuj continue
 #define przełącznik switch
 #define wypadek case
 #define przerwij break
@@ -67,7 +67,7 @@
 #define bezwzględna abs
 #define bezwzgl abs
 #define potęga power
-#define pot floor
+#define pot power
 #define pierwiastekkwadratowy sqrt
 #define pierwkwadr sqrt
 #define pierw sqrt
